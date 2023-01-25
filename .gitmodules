@@ -1,0 +1,18 @@
+[submodule "Pertemuan 3 - Deterministic Finite Automata (DFA)/etf-dfa"]
+	path = Pertemuan 3 - Deterministic Finite Automata (DFA)/etf-dfa
+	url = https://github.com/putuwaw/etf-dfa
+[submodule "Pertemuan 4 - Non-deterministic Finite Automata (NFA)/etf-nfa"]
+	path = Pertemuan 4 - Non-deterministic Finite Automata (NFA)/etf-nfa
+	url = https://github.com/putuwaw/etf-nfa
+[submodule "Pertemuan 6 - Minimization of DFA/dfa-minimization"]
+	path = Pertemuan 6 - Minimization of DFA/dfa-minimization
+	url = https://github.com/putuwaw/dfa-minimization
+[submodule "Pertemuan 11 - Parsing: Application of CFG/cfg-cyk"]
+	path = Pertemuan 11 - Parsing: Application of CFG/cfg-cyk
+	url = https://github.com/putuwaw/cfg-cyk
+[submodule "FINAL PROJECT/idparser-frontend"]
+	path = FINAL PROJECT/idparser-frontend
+	url = https://github.com/putuwaw/idparser-frontend
+[submodule "FINAL PROJECT/idparser-backend"]
+	path = FINAL PROJECT/idparser-backend
+	url = https://github.com/putuwaw/idparser-backend
